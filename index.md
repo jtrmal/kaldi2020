@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## KALDI COMMUNITY ROADMAP ##
 
-You can use the [editor on GitHub](https://github.com/jtrmal/kaldi2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Kaldi speech recognition toolkit, born in Johns Hopkins University (2009) and debuted at the Prague ICASSP (2011), is undergoing a metamorphosis.  Please join us as we craft a roadmap for the next phase in the lifecycle of this ever-evolving community resource.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Carefully designed, scalable deep learning algorithms, implemented well before frameworks such as TensorFlow, PyTorch, MxNet or Caffe were widely adopted, have been key to Kaldi's good performance and widespread adoption in academia and industry.  Equally important are the many ``recipes`` that encapsulate the knowledge and tradecraft of Kaldi experts in service of the Kaldi user/developer community.
 
-### Markdown
+Meanwhile, deep learning frameworks have evolved tremendously in the last 10 years.  Both algorithmic innovation in and scalable deployment of AI systems is increasingly able to take advantage of such frameworks, significantly accelerating progress.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are therefore undertaking the first major revision of Kaldi, aimed at integrating it closely with standard deep learning infrastructure used in research and practice.  We are calling on the Kaldi researcher-, developer- and user-community to come together once again to build this shared resource.
 
-```markdown
-Syntax highlighted code block
+Please join us in this short series of virtual town halls/community meetings for this road-mapping exercise.
 
-# Header 1
-## Header 2
-### Header 3
+###1.  Kaldi ASR: Research and Academic Users###
 
-- Bulleted
-- List
+The first community meeting will focus on the research community, both academic and non-academic, and engage past, current and future Kaldi users and contributors.  Participants will share their thoughts on how to make Kaldi easier to teach, learn and modify for both recurring and bespoke research projects.
 
-1. Numbered
-2. List
+###2.  Kaldi ASR: Applications and Industry Users###
 
-**Bold** and _Italic_ and `Code` text
+The second community meeting will focus on applications built with Kaldi components, both commercial and non-commercial, and engage past, current and future developers of Kaldi-based solutions and products.  Participants will share their thoughts on how to make Kaldi easier to customize, scale up, deploy, and maintain in real-time and off-line use cases.
 
-[Link](url) and ![Image](src)
-```
+###3.  Deep Learning Frameworks: Trends and Outlook###
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The third community meeting will engage creators of deep learning frameworks and computing infrastructures, to understand trends in framework development and hardware acceleration, insights into existing or upcoming features of platforms that may fulfill Kaldi needs, and possibilities for interoperability or interchangeability of ASR tools and models between frameworks.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jtrmal/kaldi2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Organizing committee ##
+Sanjeev Khudanpur, Johns Hopkins University
+Jan Trmal, Johns Hopkins University
+Daniel Povey, Xiaomi
