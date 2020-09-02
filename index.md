@@ -24,6 +24,6 @@ The third community meeting will engage creators of deep learning frameworks and
 
 
 ## Organizing committee ##
-Sanjeev Khudanpur, Johns Hopkins University
-Jan Trmal, Johns Hopkins University
-Daniel Povey, Xiaomi
+* Sanjeev Khudanpur, Johns Hopkins University
+* Jan Trmal, Johns Hopkins University
+* Daniel Povey, Xiaomi
