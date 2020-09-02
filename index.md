@@ -17,21 +17,22 @@ The first community meeting will focus on the research community, both academic 
 #### DRAFT TOWNHALL FORMAT ####
 
 
-Speaker 1:  02 min Jan Trmal (Welcome)
+Talks: 50 min
 
-Speaker 2:  08 min Sanjeev Khudanpur (Kaldi 2010-2020)
+Speakers:
 
-Speaker 3:  20 min Dan Povey (Kaldi 2020-2030)
+1. 02 min Jan Trmal (Welcome)
+2. 08 min Sanjeev Khudanpur (Kaldi 2010-2020)
+3. 20 min Dan Povey (Kaldi 2020-2030)
+4. 10 min TBD
+5. 10 min TBD
 
-Speaker 4:  10 min TBD
+Panel:  40 min Perspectives and needs of ASR researchers and educators
 
-Speaker 5:  10 min TBD
+Panelists
+- TBD
+- TBD
 
-Panel 1:  40 min Perspectives and needs of ASR researchers and educators
-
-Panelist #1
-
-Panelist #2
 
 …
 
