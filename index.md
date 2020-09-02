@@ -14,6 +14,31 @@ Please join us in this short series of virtual town halls/community meetings for
 
 The first community meeting will focus on the research community, both academic and non-academic, and engage past, current and future Kaldi users and contributors.  Participants will share their thoughts on how to make Kaldi easier to teach, learn and modify for both recurring and bespoke research projects.
 
+#### DRAFT TOWNHALL FORMAT ####
+
+
+Speaker 1:  02 min Jan Trmal (Welcome)
+
+Speaker 2:  08 min Sanjeev Khudanpur (Kaldi 2010-2020)
+
+Speaker 3:  20 min Dan Povey (Kaldi 2020-2030)
+
+Speaker 4:  10 min TBD
+
+Speaker 5:  10 min TBD
+
+Panel 1:  40 min Perspectives and needs of ASR researchers and educators
+
+Panelist #1
+
+Panelist #2
+
+…
+
+Panelist #8
+
+Jan Trmal (moderator)
+
 ### 2.  Kaldi ASR: Applications and Industry Users ###
 
 The second community meeting will focus on applications built with Kaldi components, both commercial and non-commercial, and engage past, current and future developers of Kaldi-based solutions and products.  Participants will share their thoughts on how to make Kaldi easier to customize, scale up, deploy, and maintain in real-time and off-line use cases.
