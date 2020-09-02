@@ -21,7 +21,7 @@ Talks: 50 min
 
 Speakers:
 
-1. 02 min Jan Trmal (Welcome)
+1. 02 min Jan "Yenda" Trmal (Welcome)
 2. 08 min Sanjeev Khudanpur (Kaldi 2010-2020)
 3. 20 min Dan Povey (Kaldi 2020-2030)
 4. 10 min TBD
@@ -33,7 +33,7 @@ Panelists
 - TBD
 - TBD
 - …
-- Jan Trmal (moderator)
+- Jan "Yenda" Trmal (moderator)
 
 ### 2.  Kaldi ASR: Applications and Industry Users ###
 
@@ -46,5 +46,5 @@ The third community meeting will engage creators of deep learning frameworks and
 
 ## Organizing committee ##
 * Sanjeev Khudanpur, Johns Hopkins University
-* Jan Trmal, Johns Hopkins University
+* Jan "Yenda" Trmal, Johns Hopkins University
 * Daniel Povey, Xiaomi
