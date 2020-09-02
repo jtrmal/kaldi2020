@@ -32,13 +32,8 @@ Panel:  40 min Perspectives and needs of ASR researchers and educators
 Panelists
 - TBD
 - TBD
-
-
-…
-
-Panelist #8
-
-Jan Trmal (moderator)
+- …
+- Jan Trmal (moderator)
 
 ### 2.  Kaldi ASR: Applications and Industry Users ###
 
