@@ -1,17 +1,16 @@
 # Kaldi ASR: Research and Academic Users #
 
-## Agenda ##
+## Agenda (all times in EDT) ##
 
-* 10:30-10:32  Welcome remarks (Jan “Yenda" Trmal, JHU)
-* 10:32-10:40  Kaldi history and goals of this meeting (Sanjeev Khudanpur, JHU)
-* 10:40-11:00  What is being planned — [k2](k2.html) (Dan Povey, Xiaomi Corp)
-* 11:00-11:05  What is being planned — [Lhotse](lhotse.html) (Piotr Zelasko, JHU)
-* 11:05-11:10  Transition time
-* 11:10-12:00  Panel Discussion (moderated by Yenda)
-* 12:00-12:xx  Q&A if there are pressing audience questions (Anyone who can stay past 12:00)
-(all times are EDT)
+* 11:30-11:32  Welcome remarks (Jan “Yenda" Trmal, JHU)
+* 11:32-11:40  Kaldi history and goals of this meeting (Sanjeev Khudanpur, JHU)
+* 11:40-12:00  What is being planned — [k2](k2.html) (Dan Povey, Xiaomi Corp)
+* 12:00-12:05  What is being planned — [Lhotse](lhotse.html) (Piotr Zelasko, JHU)
+* 12:05-12:10  Transition time
+* 12:10-13:00  Panel Discussion (moderated by Yenda)
+* 13:00-13:xx  Q&A if there are pressing audience questions (Anyone who can stay past 12:00)
 
-## List of Panelists ##
+## Panelists and Other Prospective Participants ##
 
 * [Peter Bell, University of Edinburgh, United Kingdom](http://homepages.inf.ed.ac.uk/pbell1/)
 * [Lukas Burget, Brno University of Technology, Czech Republic](https://www.fit.vut.cz/person/burget/.en)
@@ -29,6 +28,8 @@
 * [Steve Renals, University of Edinburgh, United Kingdom](https://www.research.ed.ac.uk/portal/en/persons/stephen-renals%283593b144-170a-4242-90cf-16ffbe82f45f%29.html)
 * [Sakriani Sakti, Nara Institute of Science and Technology, Japan](http://isw3.naist.jp/Contents/Research/mi-02-en.html)
 * [Alex Waibel, Carnegie Mellon University, USA](https://www.cs.cmu.edu/~ahw/)
+
+
 * [Jan “Honza" Cernocky, Brno University of Technology, Czech Republic](https://www.fit.vut.cz/person/cernocky/.en)
 * [Ondrej Klejch  University of Edinburgh, United Kingdom](http://www.cstr.ed.ac.uk/ssi/people/s1569734.html)
 * [Satoshi Nakamura, Nara Institute of Science and Technology, Japan](https://ahcweb01.naist.jp/Prof.Nakamura/index_e.html)
