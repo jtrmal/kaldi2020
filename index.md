@@ -8,32 +8,12 @@ Meanwhile, deep learning frameworks have evolved tremendously in the last 10 yea
 
 We are therefore undertaking the first major revision of Kaldi, aimed at integrating it closely with standard deep learning infrastructure used in research and practice.  We are calling on the Kaldi researcher-, developer- and user-community to come together once again to build this shared resource.
 
-Please join us in this short series of virtual town halls/community meetings for this road-mapping exercise.
+Please join us in this short series of virtual town halls/community meetings for this road-mapping exercise. [Start by registering for the webinar here.](https://wse.zoom.us/webinar/register/WN_4wce3H6XRuy8stdFaPWcGA)
 
 ### 1.  Kaldi ASR: Research and Academic Users ###
 
 The first community meeting will focus on the research community, both academic and non-academic, and engage past, current and future Kaldi users and contributors.  Participants will share their thoughts on how to make Kaldi easier to teach, learn and modify for both recurring and bespoke research projects.
-
-#### DRAFT TOWNHALL FORMAT ####
-
-
-Talks: 50 min
-
-Speakers:
-
-1. 02 min Jan "Yenda" Trmal (Welcome)
-2. 08 min Sanjeev Khudanpur (Kaldi 2010-2020)
-3. 20 min Dan Povey (Kaldi 2020-2030)
-4. 10 min TBD
-5. 10 min TBD
-
-Panel:  40 min Perspectives and needs of ASR researchers and educators
-
-Panelists
-- TBD
-- TBD
-- …
-- Jan "Yenda" Trmal (moderator)
+[More](academics.html)
 
 ### 2.  Kaldi ASR: Applications and Industry Users ###
 
@@ -47,4 +27,5 @@ The third community meeting will engage creators of deep learning frameworks and
 ## Organizing committee ##
 * Sanjeev Khudanpur, Johns Hopkins University
 * Jan "Yenda" Trmal, Johns Hopkins University
+* Piotr Żelasko, Johns Hopkins University
 * Daniel Povey, Xiaomi
