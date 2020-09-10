@@ -4,8 +4,8 @@
 
 * 10:30-10:32  Welcome remarks (Jan “Yenda" Trmal, JHU)
 * 10:32-10:40  Kaldi history and goals of this meeting (Sanjeev Khudanpur, JHU)
-* 10:40-11:00  What is being planned — k2 (Dan Povey, Xiaomi Corp)
-* 11:00-11:05  What is being planned — Lhotse (Piotr Zelasko, JHU)
+* 10:40-11:00  What is being planned — [k2](k2.html) (Dan Povey, Xiaomi Corp)
+* 11:00-11:05  What is being planned — [Lhotse](lhotse.html) (Piotr Zelasko, JHU)
 * 11:05-11:10  Transition time
 * 11:10-12:00  Panel Discussion (moderated by Yenda)
 * 12:00-12:xx  Q&A if there are pressing audience questions (Anyone who can stay past 12:00)
