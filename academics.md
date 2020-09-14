@@ -11,7 +11,7 @@ The first community meeting will focus on the research community, both academic 
 * 12:00-12:05  What is being planned — [Lhotse](lhotse.html) (Piotr Zelasko, JHU)
 * 12:05-12:10  Transition time
 * 12:10-13:00  Panel Discussion (moderated by Yenda)
-* 13:00-13:xx  Q&A if there are pressing audience questions (Anyone who can stay past 12:00)
+* 13:00-13:xx  Audience Q&A (All panelists)
 
 ## Panelists and Other Prospective Participants ##
 
