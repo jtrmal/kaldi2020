@@ -8,7 +8,7 @@ The first community meeting will focus on the research community, both academic 
 * 11:30-11:32  Welcome remarks (Jan “Yenda" Trmal, JHU)
 * 11:32-11:40  Kaldi history and goals of this meeting (Sanjeev Khudanpur, JHU)
 * 11:40-12:00  What is being planned — [k2](https://github.com/danpovey/k2/blob/master/README.md) (Dan Povey, Xiaomi Corp)
-* 12:00-12:05  What is being planned — [Lhotse](lhotse.html) (Piotr Zelasko, JHU)
+* 12:00-12:05  What is being planned — [Lhotse](https://github.com/pzelasko/lhotse/blob/master/README.md) (Piotr Zelasko, JHU)
 * 12:05-12:10  Transition time
 * 12:10-13:00  Panel Discussion (moderated by Yenda)
 * 13:00-13:xx  Audience Q&A (All panelists)
