@@ -6,10 +6,10 @@ The second community meeting will focus on applications built with Kaldi compone
 
 ## Agenda (all times are in EDT) ##
 
-11:30-11:40  Welcome and meeting goals (Jan Trmal and Sanjeev Khudanpur)
-11:40-11:50  What is being planned — [k2](https://github.com/danpovey/k2/blob/master/README.md) and [Lhotse](https://github.com/pzelasko/lhotse/blob/master/README.md) (Dan Povey and Piotr Żelasko)
-11:50-13:00  Panel discussion (Moderated by Mei-Yuh Hwang)
-13:00-13:xx  Audience Q&A (All panelists)
+* 11:30-11:40  Welcome and meeting goals (Jan Trmal and Sanjeev Khudanpur)
+* 11:40-11:50  What is being planned — [k2](https://github.com/danpovey/k2/blob/master/README.md) and [Lhotse](https://github.com/pzelasko/lhotse/blob/master/README.md) (Dan Povey and Piotr Żelasko)
+* 11:50-13:00  Panel discussion (Moderated by Mei-Yuh Hwang)
+* 13:00-13:xx  Audience Q&A (All panelists)
 
 
 ## Panelists (subject to change/addition ##
