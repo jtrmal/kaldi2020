@@ -15,6 +15,8 @@ Please join us in this short series of virtual town halls/community meetings for
 The first community meeting will focus on the research community, both academic and non-academic, and engage past, current and future Kaldi users and contributors.  Participants will share their thoughts on how to make Kaldi easier to teach, learn and modify for both recurring and bespoke research projects.
 [Read more](academics.html)
 
+{% include youtube.html id="D-3f7iiPraM" %}  
+
 ### 2.  Kaldi ASR: Applications and Industry Users ###
 
 The second community meeting will focus on applications built with Kaldi components, both commercial and non-commercial, and engage past, current and future developers of Kaldi-based solutions and products.  Participants will share their thoughts on how to make Kaldi easier to customize, scale up, deploy, and maintain in real-time and off-line use cases.
