@@ -19,7 +19,7 @@ The second community meeting will focus on applications built with Kaldi compone
 * [Johnathan Oelsner, VP Engineering, Verint](https://www.linkedin.com/in/johnathan-oelsner-54a2781/)
 * [Jungsuk Kim, Principal ML Scientist, Twilio Inc.](https://www.linkedin.com/in/jungsuk/)
 * [Kyrill 'kkm' Katsnelson, Kaldi & linguistics, speech and voice expert](https://dev.to/kkm000)
-* [Marc Ferras, Principal Scientist, Sony Corp.](www.sony.com)
+* [Marc Ferras, Principal Scientist, Sony Corp.](https://www.sony.net/SonyInfo/technology/about/stuttgart1)
 * [Mei-Yuh Hwang, Partner Research Manager, Microsoft](https://www.linkedin.com/in/mei-yuh-hwang-222797/)
 * [Miguel Jetté, Director Speech R&D, Rev.com](https://www.linkedin.com/in/migueljette/)
 * [Mohamed El-Geish, Director of AI, Cisco](https://www.linkedin.com/in/elgeish/)
