@@ -17,6 +17,8 @@ The first community meeting will focus on the research community, both academic 
 
 {% include youtube.html id="D-3f7iiPraM" %}  
 
+
+
 ### 2.  Kaldi ASR: Applications and Industry Users ###
 
 The second community meeting will focus on applications built with Kaldi components, both commercial and non-commercial, and engage past, current and future developers of Kaldi-based solutions and products.  Participants will share their thoughts on how to make Kaldi easier to customize, scale up, deploy, and maintain in real-time and off-line use cases.
