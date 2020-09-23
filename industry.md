@@ -9,9 +9,9 @@ Note: if you have registered for the previous townhall, you don't have to regist
 ## Agenda (all times are in EDT) ##
 
 * 11:30-11:35  Welcome and meeting goals (Jan Trmal and Sanjeev Khudanpur)
-* 11:35-11:45  What is being planned — [k2](https://github.com/danpovey/k2/blob/master/README.md) and [Lhotse](https://github.com/pzelasko/lhotse/blob/master/README.md) (Dan Povey and Piotr Żelasko)
+* 11:35-11:45  What is being planned — [k2](https://github.com/danpovey/k2/blob/master/README.md) and [Lhotse](https://github.com/pzelasko/lhotse/blob/master/README.md) (Dan Povey and Piotr Żelasko). Please note that the full presentation on K2 and Lhotse were done in the previous Townhal and you can watch them from [the recording](/academics_video.html)
 * 11:45-13:15  Panel discussion (Moderated by Mei-Yuh Hwang)
-* 13:00-13:xx  Audience Q&A (All panelists)
+* 13:15-13:xx  Audience Q&A (All panelists)
 
 
 ## Panelists and Other Prospective Participants ##

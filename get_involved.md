@@ -13,8 +13,8 @@ For now, the general invite ticket is [here](https://join.slack.com/t/kaldi2020/
 For more generic or longer-term questions or concerns, it might be actually more
 suitable to open an "Issue" in the github repository of the [Kaldi Community Roadmap project](https://github.com/jtrmal/kaldi2020/issues)
 
-## Star the repository ##
-By [assigning a star to the Kaldi Community Roadmap repository](https://github.com/jtrmal/kaldi2020/), you will be notified about changes of the content.
+## "Star" or "Watch" the repository ##
+By [assigning a "star" or "watch" to the Kaldi Community Roadmap repository](https://github.com/jtrmal/kaldi2020/), you will be notified about changes of the content.
 
 ## Contact us directly ##
 In specific cases, when nature of your work does not allow publicly disclosure, feel free to contact us directly.
