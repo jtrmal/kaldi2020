@@ -1,5 +1,7 @@
 # 3.  Deep Learning Frameworks: Trends and Outlook #
+The third community meeting will engage creators of deep learning frameworks and computing infrastructures, to understand trends in framework development and hardware acceleration, insights into existing or upcoming features of platforms that may fulfill Kaldi needs, and possibilities for interoperability or interchangeability of ASR tools and models between frameworks.
 
+ [Register for the webinar here.](https://wse.zoom.us/webinar/register/WN_4wce3H6XRuy8stdFaPWcGA)
 
 ## Agenda (all times in EDT) ##
  
@@ -12,23 +14,23 @@
 
 ## Confirmed and Prospective Panelists ##
 
-Alex Smola,  Amazon AWS
-Arindam Mandal, Amazon Alexa
-Ariya Rastrow, Amazon Echo
-Brian Kingsbury, IBM
-Joe Spisak,  Facebook
-Katrin Kirchhoff, Amazon AWS
-Michael Riley, Google AI
-Vijay Peddinti, Google AI
-Vincent Quenneville-Belair, Facebook
-Xuedong Huang, Microsoft
+* Alex Smola,  Amazon AWS
+* Arindam Mandal, Amazon Alexa
+* Ariya Rastrow, Amazon Echo
+* Brian Kingsbury, IBM
+* Joe Spisak,  Facebook
+* Katrin Kirchhoff, Amazon AWS
+* Michael Riley, Google AI
+* Vijay Peddinti, Google AI
+* Vincent Quenneville-Belair, Facebook
+* Xuedong Huang, Microsoft
 
-Alex Acero,  Apple Siri
-Bhuvana Ramabhadran, Google AI
-Chris Basoglu, Microsoft
-David Snyder, Apple
-Gunnar Evermann, Apple Siri
-Justin Luitjens, NVIDIA
-Mike Seltzer, Facebook
-Pedro Moreno, Google AI
-Ryan Leary, NVIDIA
+* Alex Acero,  Apple Siri
+* Bhuvana Ramabhadran, Google AI
+* Chris Basoglu, Microsoft
+* David Snyder, Apple
+* Gunnar Evermann, Apple Siri
+* Justin Luitjens, NVIDIA
+* Mike Seltzer, Facebook
+* Pedro Moreno, Google AI
+* Ryan Leary, NVIDIA
