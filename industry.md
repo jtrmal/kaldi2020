@@ -27,7 +27,6 @@ Note: if you have registered for the previous townhall, you don't have to regist
 * [Mohamed El-Geish, Director of AI, Cisco](https://www.linkedin.com/in/elgeish/)
 * [Nagendra Goel, CEO, GoVivace Inc.](https://www.linkedin.com/in/ngoel/)
 * [Nickolay Shmyrev, CEO, ACTechnologies LLC](https://www.linkedin.com/in/nickolay-shmyrev/)
-* [Patrick Nguyen, Speech & ML expert](https://www.linkedin.com/in/drpng/)
 * [Petr Schwarz, CTO, Phonexia s.r.o](https://www.linkedin.com/in/petrschwarz/)
 * [Raphael Cohen, VP of Research, Chorus.ai](https://www.linkedin.com/in/raphael-cohen-63a87779/)
 * [Tao Ma, VP of Language Technology, ASAPP](https://www.linkedin.com/in/matao/)
@@ -36,3 +35,6 @@ Note: if you have registered for the previous townhall, you don't have to regist
 * [Xavier Anguera, Co-Founder - CTO, ELSA Corp.](https://www.linkedin.com/in/xanguera/)
 * [Xin (Mike) Lei, CTO Mobvoi Ltd.](https://www.linkedin.com/in/xinlei/)
 * [Yishay Carmiel, Founder, IntelligentWire](https://www.linkedin.com/in/yishay-carmiel-6469482/)
+
+* [Patrick Nguyen, Speech & ML expert](https://www.linkedin.com/in/drpng/)
+
