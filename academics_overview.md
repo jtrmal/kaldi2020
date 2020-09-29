@@ -1,6 +1,6 @@
-# Kald ASR: Research and Academic Users -- Summary of the meeting #
+# Kaldi ASR: Research and Academic Users -- Summary of the meeting #
 
-* Preared by Desh Raj, Yiming Wang, Jonathan Chang, Paola Garcia
+* Prepared by Desh Raj, Yiming Wang, Jonathan Chang, Paola Garcia
 * September 17, 2020.
 
 ## Introduction (Sanjeev Khudanpur) ##
