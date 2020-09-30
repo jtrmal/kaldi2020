@@ -14,23 +14,17 @@ The third community meeting will engage creators of deep learning frameworks and
 
 ## Confirmed and Prospective Panelists ##
 
-* Alex Smola,  Amazon AWS
-* Arindam Mandal, Amazon Alexa
-* Ariya Rastrow, Amazon Echo
-* Brian Kingsbury, IBM
-* Joe Spisak,  Facebook
-* Katrin Kirchhoff, Amazon AWS
-* Michael Riley, Google AI
-* Vijay Peddinti, Google AI
-* Vincent Quenneville-Belair, Facebook
-* Xuedong Huang, Microsoft
+* [Alex Smola](https://alex.smola.org/), Director, Amazon Web Services
+* [Arindam Mandal](https://www.linkedin.com/in/arindam-mandal/), Director, Conversational AI, Amazon Alexa
+* [Ariya Rastrow](https://www.linkedin.com/in/ariya-rastrow-4ab149b/), Senior Principal Research Scientist, Amazon Echo
+* [Bhuvana Ramabhadran](https://www.linkedin.com/in/bhuvana-ramabhadran-533a79/), Google AI
+* [Brian Kingsbury](https://researcher.watson.ibm.com/researcher/view.php?person=us-bedk), Manager, Speech Technologies, IBM T J Watson Research Center
+* Hugo Brown, NVIDIA
+* [Joe Spisak](https://www.linkedin.com/in/jspisak/), Product Lead — Artificial Intelligence, Facebook AI
+* [Katrin Kirchhoff](https://www.linkedin.com/in/katrin-kirchhoff-19388049/), Senior Applied Science Manager, Amazon AI
+* [Michael Riley](https://www.linkedin.com/in/michael-riley-a8197913a/), Distinguished Research Scientist, Google
+* [Ryan Leary](https://www.linkedin.com/in/ryaneleary/), Engineering Manager, AI Applications: Speech & NLP at NVIDIA
+* [Vijay Peddinti](https://www.linkedin.com/in/vijayaditya-peddinti-224090b/), Research Scientist, Google
+* [Vincent Quenneville-Belair](https://www.linkedin.com/in/vincentqb/),  Machine Learning Scientist, Facebook AI
+* [Xuedong Huang](https://www.microsoft.com/en-us/research/people/xdh/), CTO AI Cognitive Services, Microsoft
 
-* Alex Acero,  Apple Siri
-* Bhuvana Ramabhadran, Google AI
-* Chris Basoglu, Microsoft
-* David Snyder, Apple
-* Gunnar Evermann, Apple Siri
-* Justin Luitjens, NVIDIA
-* Mike Seltzer, Facebook
-* Pedro Moreno, Google AI
-* Ryan Leary, NVIDIA
