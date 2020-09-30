@@ -19,7 +19,7 @@ The third community meeting will engage creators of deep learning frameworks and
 * [Ariya Rastrow](https://www.linkedin.com/in/ariya-rastrow-4ab149b/), Senior Principal Research Scientist, Amazon Echo
 * [Bhuvana Ramabhadran](https://www.linkedin.com/in/bhuvana-ramabhadran-533a79/), Google AI
 * [Brian Kingsbury](https://researcher.watson.ibm.com/researcher/view.php?person=us-bedk), Manager, Speech Technologies, IBM T J Watson Research Center
-* Hugo Brown, NVIDIA
+* [Hugo Braun](https://www.linkedin.com/in/hugo-braun-b741b284/), AI Developer Technology Engineer, NVIDIA
 * [Joe Spisak](https://www.linkedin.com/in/jspisak/), Product Lead — Artificial Intelligence, Facebook AI
 * [Katrin Kirchhoff](https://www.linkedin.com/in/katrin-kirchhoff-19388049/), Senior Applied Science Manager, Amazon AI
 * [Michael Riley](https://www.linkedin.com/in/michael-riley-a8197913a/), Distinguished Research Scientist, Google
