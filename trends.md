@@ -17,7 +17,7 @@ The third community meeting will engage creators of deep learning frameworks and
 * [Alex Smola](https://alex.smola.org/), Director, Amazon Web Services
 * [Arindam Mandal](https://www.linkedin.com/in/arindam-mandal/), Director, Conversational AI, Amazon Alexa
 * [Ariya Rastrow](https://www.linkedin.com/in/ariya-rastrow-4ab149b/), Senior Principal Research Scientist, Amazon Echo
-* [Bhuvana Ramabhadran](https://www.linkedin.com/in/bhuvana-ramabhadran-533a79/), Google AI
+* [Bhuvana Ramabhadran](https://www.linkedin.com/in/bhuvana-ramabhadran-533a79/), Manager/Researcher, Google AI
 * [Brian Kingsbury](https://researcher.watson.ibm.com/researcher/view.php?person=us-bedk), Manager, Speech Technologies, IBM T J Watson Research Center
 * [Hugo Braun](https://www.linkedin.com/in/hugo-braun-b741b284/), AI Developer Technology Engineer, NVIDIA
 * [Jian Wu](https://www.linkedin.com/in/jian-wu-31622212), Principal Speech Scientist Manager, Microsoft
