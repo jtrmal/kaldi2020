@@ -1,7 +1,6 @@
 # Kaldi ASR: Research and Academic Users #
 The first community meeting will focus on the research community, both academic and non-academic, and engage past, current and future Kaldi users and contributors. Participants will share their thoughts on how to make Kaldi easier to teach, learn and modify for both recurring and bespoke research projects.
 
- [Register for the webinar here.](https://wse.zoom.us/webinar/register/WN_4wce3H6XRuy8stdFaPWcGA)
 
 ## Agenda (all times in EDT) ##
 

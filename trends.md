@@ -1,7 +1,6 @@
 # 3.  Deep Learning Frameworks: Trends and Outlook #
 The third community meeting will engage creators of deep learning frameworks and computing infrastructures, to understand trends in framework development and hardware acceleration, insights into existing or upcoming features of platforms that may fulfill Kaldi needs, and possibilities for interoperability or interchangeability of ASR tools and models between frameworks.
 
- [Register for the webinar here.](https://wse.zoom.us/webinar/register/WN_4wce3H6XRuy8stdFaPWcGA)
 
 ## Agenda (all times in EDT) ##
  

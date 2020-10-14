@@ -8,7 +8,7 @@ Meanwhile, deep learning frameworks have evolved tremendously in the last 10 yea
 
 We are therefore undertaking the first major revision of Kaldi, aimed at integrating it closely with standard deep learning infrastructure used in research and practice.  We are calling on the Kaldi researcher-, developer- and user-community to come together once again to build this shared resource.
 
-Please join us in this short series of virtual town halls/community meetings for this road-mapping exercise. [Start by registering for the webinar here.](https://wse.zoom.us/webinar/register/WN_4wce3H6XRuy8stdFaPWcGA)
+Please join us in this short series of virtual town halls/community meetings for this road-mapping exercise. 
 
 ### 1.  Kaldi ASR: Research and Academic Users ###
 

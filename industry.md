@@ -2,7 +2,6 @@
 
 The second community meeting will focus on applications built with Kaldi components, both commercial and non-commercial, and engage past, current and future developers of Kaldi-based solutions and products.  Participants will share their thoughts on how to make Kaldi easier to customize, scale up, deploy, and maintain in real-time and off-line use cases.
 
-[Register for the webinar here.](https://wse.zoom.us/webinar/register/WN_4wce3H6XRuy8stdFaPWcGA)
 Note: if you have registered for the previous townhall, you don't have to register again.
 
 
