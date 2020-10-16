@@ -1,4 +1,4 @@
-# How to get involved? #
+# Leave a comment, stay in touch, or get involved. #
 
 ## Visit the webinars ##
 One registration is enough for all three (or more) of the virtual townhalls.

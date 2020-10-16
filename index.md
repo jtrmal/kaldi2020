@@ -1,6 +1,6 @@
 ## KALDI COMMUNITY ROADMAP ##
 
-The Kaldi speech recognition toolkit, born in Johns Hopkins University (2009) and debuted at the Prague ICASSP (2011), is undergoing a metamorphosis.  Please join us as we craft a roadmap for the next phase in the lifecycle of this ever-evolving community resource.
+The Kaldi speech recognition toolkit, born in Johns Hopkins University (2009) and debuted at the Prague ICASSP (2011), is undergoing a metamorphosis.
 
 Carefully designed, scalable deep learning algorithms, implemented well before frameworks such as TensorFlow, PyTorch, MxNet or Caffe were widely adopted, have been key to Kaldi's good performance and widespread adoption in academia and industry.  Equally important are the many ``recipes`` that encapsulate the knowledge and tradecraft of Kaldi experts in service of the Kaldi user/developer community.
 
@@ -8,7 +8,8 @@ Meanwhile, deep learning frameworks have evolved tremendously in the last 10 yea
 
 We are therefore undertaking the first major revision of Kaldi, aimed at integrating it closely with standard deep learning infrastructure used in research and practice.  We are calling on the Kaldi researcher-, developer- and user-community to come together once again to build this shared resource.
 
-Please join us in this short series of virtual town halls/community meetings for this road-mapping exercise. 
+
+Note: For now, we only host archive of the past events.  Get alerted about future meetings by watching [our repository on github](https://github.com/jtrmal/kaldi2020/)
 
 ### 1.  Kaldi ASR: Research and Academic Users ###
 
