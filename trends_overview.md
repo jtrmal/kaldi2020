@@ -112,13 +112,13 @@ Piotr gave a Lhotse teaser. Lhotse is Python-centric making it easier for a broa
 **Miscellaneous**
 
 1. Opinions about other open-source packages for ASR? (Michael Rilley)
-  1. Espresso has quite a lot of users (Dan Povey).
-  2. Toolbox from Nvidia that does speech stuff -- Janus (Yenda)
+    1. Espresso has quite a lot of users (Dan Povey).
+    2. Toolbox from Nvidia that does speech stuff -- Janus (Yenda)
 2. Are you planning to maintain the reproducibility set-up so that people can have an easy launching point? (Vijay Peddinti)
-  1. Yes, however, we still need to decide the structure of the recipes (one single repository or separate projects). (Dan Povey)
+    1. Yes, however, we still need to decide the structure of the recipes (one single repository or separate projects). (Dan Povey)
 3. How are you planning to address parallelization?	(Vijay Peddinti)
-  1. In the short term, we are going to assume that you are training on a single machine with several GPUs. We will probably use the parallelization mechanisms that the toolkits themselves have. (Dan Povey)
+    1. In the short term, we are going to assume that you are training on a single machine with several GPUs. We will probably use the parallelization mechanisms that the toolkits themselves have. (Dan Povey)
 4. Is the ability to train on one recording will also carry over for the decoding? (Thomas Schaaf)
-  1. Lhotse will make it easy to deal with long recordings. (Dan Povey)
-  2. Lhotse can be used for off-line,  and probably straightforward to reuse it for online (Piotr Zelasco)
+    1. Lhotse will make it easy to deal with long recordings. (Dan Povey)
+    2. Lhotse can be used for off-line,  and probably straightforward to reuse it for online (Piotr Zelasco)
 
