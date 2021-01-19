@@ -26,37 +26,37 @@ Piotr gave a Lhotse teaser. Lhotse is Python-centric making it easier for a broa
 
 ### Panel Discussion (moderator: Jan "Yenda" Trmal)
 
-** What is happening in deep learning toolkits that Kaldi developers should be aware of? **
+**What is happening in deep learning toolkits that Kaldi developers should be aware of?**
 
 1.  Bring in things that PyTorch is building that you can just leverage on top of. (Joe Spisak)
-  a. Do not need to worry about quantization, pipeline parallelism or distributed data-parallel training.
-  b. New abstractions like auto batching etc. are added
-  c. Spanning tensor like ragged tensor
-  d. Should be able to deploy it easily to the device.
+    1. Do not need to worry about quantization, pipeline parallelism or distributed data-parallel training.
+    2. New abstractions like auto batching etc. are added
+    3. Spanning tensor like ragged tensor
+    4. Should be able to deploy it easily to the device.
 2. Good experience with quantization on PyTorch with any platform (Brian Kingsbury)
-  a. PyTorch has several backend libraries that can deal with CPU (Joe Spisak)
-  b. Theoretical speedups of 4x, but should be able to get 2x speedups easily (Joe Spisak)
+    1. PyTorch has several backend libraries that can deal with CPU (Joe Spisak)
+    2. Theoretical speedups of 4x, but should be able to get 2x speedups easily (Joe Spisak)
 3. TensorFlow and google prefer to have an intermediate compiler for the hardware/compiler problem (Michael Riley)
-  a. Users can use it at high-level and somebody else works on the compiler CPUs or other devices (Michael Riley)
-  b. You are focusing K2 on GPUs and it would not immediately translate to a suitable solution (Michael Riley)
-  c. If the K2 FSA in cross-platform is really needed, then all these issues could be explained  (Michael Riley)
-    i. You can make it work on a wider set of tools (Michael Riley)
-    ii. Shouldn’t be too hard to make it work across platforms since we mostly use lambdas. (Dan Povey)
-    iii. RaggedTensor not supported on some platforms. (Michael Riley)
+    1. Users can use it at high-level and somebody else works on the compiler CPUs or other devices (Michael Riley)
+    2. You are focusing K2 on GPUs and it would not immediately translate to a suitable solution (Michael Riley)
+    3. If the K2 FSA in cross-platform is really needed, then all these issues could be explained  (Michael Riley)
+        1. You can make it work on a wider set of tools (Michael Riley)
+        2. Shouldn’t be too hard to make it work across platforms since we mostly use lambdas. (Dan Povey)
+        3. RaggedTensor not supported on some platforms. (Michael Riley)
 4. One use case that might become important is federated learning and on-device where high parallelizable or too many concurrencies might not be valid. (Ariya Rastrow)
-  a. We can just implement different versions of the algorithms that are optimized for CPUs, but they won’t be as efficient. (Dan Povey)
+    1. We can just implement different versions of the algorithms that are optimized for CPUs, but they won’t be as efficient. (Dan Povey)
 5. Is it on the roadmap to get an efficient implementation for CPU? (Ariya Rastrow)
-  a. Yes, definitely. (Dan Povey)
-  b. Already have most of CPU implementation done so it should be doable.
+    1. Yes, definitely. (Dan Povey)
+    2. Already have most of CPU implementation done so it should be doable.
 6. Back to the question of making it compatible with other platforms. (Michael Riley)
-  a. Most of the algorithms are complex composition of operations, but we are manipulating pointers directly on the CPU/GPU, so we are not representing these operations in units. (Dan Povey)
-  b. Would be hard to make it compatible with all platforms and also be efficient.
-  c. Kernel versions can also be an issue to consider (Michael Riley)
-    i. The FSAs operate on whole batches and they run on the same kernel queue, so it is not that heavy. (Dan Povey)
+    1. Most of the algorithms are complex composition of operations, but we are manipulating pointers directly on the CPU/GPU, so we are not representing these operations in units. (Dan Povey)
+    2. Would be hard to make it compatible with all platforms and also be efficient.
+    3. Kernel versions can also be an issue to consider (Michael Riley)
+        1. The FSAs operate on whole batches and they run on the same kernel queue, so it is not that heavy. (Dan Povey)
 7.  How does NVIDIA feel about using GPUs for more complex structures than matrices (like ragged arrays)? (Jan Trmal)
-  a. GPU is a specialized hardware but we want it to be general purpose. (Hugo Braun)
-  b. For complex structures, if it is representable in CUDA, we can leverage full power of GPUs. But the code would need to be designed bottom-up with the special GPU structure in mind. (Hugo Braun)
+    1. GPU is a specialized hardware but we want it to be general purpose. (Hugo Braun)
+    2. For complex structures, if it is representable in CUDA, we can leverage full power of GPUs. But the code would need to be designed bottom-up with the special GPU structure in mind. (Hugo Braun)
 8. Can ragged array be processed in order? (Kim ?)
-  a. It is not really sequential. It is only one long array that can be processed in parallel (look up in row IDs and row splits). You don’t have to group by length.  (Dan Povey)
+    1. It is not really sequential. It is only one long array that can be processed in parallel (look up in row IDs and row splits). You don’t have to group by length.  (Dan Povey)
 
 
